@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Resume</title>
+<STYLE>
+
+table {
+
+border: 1px solid black;
+
+}
+
+td {
+
+padding: 2px;
+
+border: 1px solid black;
+
+}
+
+</STYLE>
+
+</head>
+
+<body>
+
+<div class="stuff" >
+
+<h1 align="center">RESUME</h1>
+
+<h2 align="center">Pushpitha Reddy</h2>
+
+<h4 align="center">ph: 6379733575</h4>
+
+<hr />
+
+<br>
+
+<b>
+
+<p class="head">CAREER OBJECTIVE:</p>
+
+</b>
+
+<p>To pursue a challenging career and be part of a progressive organization that enhances my knowledge and to utilize my skills towards the growth of the organization.
+
+ Currently, pursuing my Third year of Bachelor of Engineering in Computer Science </p>
+
+<b>
+
+<p class="head">SKILLS and CERTIFICATIONS:</p>
+
+</b>
+
+<ul>
+
+<li>Languages (Python, JAVA, C, HTML, CSS)</li>
+
+<li>Database Management (My SQL Server, MongoDB, PGSQL, NoSQL, Angular, Nodejs)</li>
+
+<li>Analytical Tools (Tableau, Power BI)</li>
+
+<li>Linux Commands, Machine Learning, Cloud computing, Machine learning, Web and mobile app application development</li>
+
+</ul>
+
+<b>
+
+<p class="head">
+EDUCATIONAL  QUALIFICATIONS:</p>
+
+</b>
+
+<table>
+
+<tr id="heading">
+
+<td>Qualification</td>
+
+<td>Aggregate</td>
+
+<td>Year</td>
+
+</tr>
+
+<tr>
+
+<td>10</td>
+
+<td>92</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr>
+
+<td>Inter</td>
+
+<td>91</td>
+
+<td>2018</td>
+
+</tr>
+
+<tr>
+
+<td>B.E(CSE)</td>
+
+<td>8.52</td>
+
+<td>2018-2022</td>
+
+</tr>
+
+</table>
+
+<b>
+
+<p class="head">PROJECTS</p>
+
+</b>
+
+<ul>
+<li>Face mask and social distance detection ( Mar - June 2021)</li>
+<li>Airlines seat reservation system (Jan - Feb 2021)</li>
+<li>Blood bank management system (Sep - Nov 2020)</li>
+<li>Smart Tour Guide (Oct - Nov 2020)</li>
+<li>A self-driving car (Sep- Jan 2020)</li>
+</ul>
+
+<b>
+
+<p class="head">HOBBIES AND INTERESTS</p>
+
+</b>
+
+<ul>
+
+<li>Cooking</li>
+
+<li>Gardening</li>
+
+<li>Badminton</li>
+
+<li>Reading</li>
+
+<li>Photography</li>
+
+</ul>
+
+<b>
+
+<p class="head">ACHIEVEMENTS and ACCOMPLISHMENTS:</p>
+
+</b>
+
+<ul>
+
+<li>Secured academic excellence award in the year 2015- 2016.</li>
+
+<li>Presented a paper titled “NanoTechnology and its Impacts on Future for Human Life” in national E-conference on RADAIS 2k21 on 12th June 2021.</li>
+
+<li>Served as ‘Media and Marketing Coordinator’ of the Department of Computer Science and Engineering, KCT during the Academic year 2020-21.</li>
+
+<li>Served as treasurer of SOIL club and an active participant in the photography club (studio) in KCT</li>
+
+<li>Volunteered in “INTERNATIONAL CONFERENCE ON EGHD” - 22nd to 24th August 2017 </li>
+<li>Participated in eRaksha competition- 2019</li>
+
+</ul>
+
+</body>
+
+</html>
